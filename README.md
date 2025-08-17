@@ -149,7 +149,7 @@ The bot also shows real-time processing details:
 ❌ NOT SAVING: Token Atlantis with score 1 (risk: HIGH)
 ```
 
-## 📁 File Structure
+##  File Structure
 
 - `solana_token_detector.py` - Main application
 - `config.json` - Configuration settings (auto-generated)
