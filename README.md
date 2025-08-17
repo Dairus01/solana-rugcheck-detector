@@ -194,12 +194,6 @@ Contributions are welcome! If you find a bug or have a feature request, please:
 4. **Push** to the branch (`git push origin feature/amazing-feature`)
 5. **Open** a Pull Request
 
-## 📊 Repository Stats
-
-- **GitHub**: [https://github.com/Dairus01/solana-rugcheck-detector.git](https://github.com/Dairus01/solana-rugcheck-detector.git)
-- **Language**: Python
-- **License**: Educational Use
-- **Status**: Active Development
 
 ## ⭐ Star the Repository
 
