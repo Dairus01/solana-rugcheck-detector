@@ -1,8 +1,6 @@
 # Solana Token RugCheck Detector
 
-A real-time Solana SPL token monitoring tool that detects newly minted tokens and performs risk analysis using RugCheck's API. The bot automatically saves safe tokens to a local database and provides detailed risk assessments.
-
-**GitHub Repository**: [https://github.com/Dairus01/solana-rugcheck-detector.git](https://github.com/Dairus01/solana-rugcheck-detector.git)
+A real-time Solana SPL token monitoring tool that detects newly minted tokens and performs risk analysis using RugCheck's API. The bot automatically saves safe tokens to `safe_to_buy.json` and provides detailed risk assessments.
 
 ##  Features
 
