@@ -4,7 +4,7 @@ A real-time Solana SPL token monitoring tool that detects newly minted tokens an
 
 **GitHub Repository**: [https://github.com/Dairus01/solana-rugcheck-detector.git](https://github.com/Dairus01/solana-rugcheck-detector.git)
 
-## 🚀 Features
+##  Features
 
 - **Real-time Token Detection**: Monitors Solana blockchain for new token mints every 10-300 seconds
 - **Risk Analysis**: Integrates with RugCheck API for comprehensive token safety scoring
@@ -14,7 +14,7 @@ A real-time Solana SPL token monitoring tool that detects newly minted tokens an
 - **Risk Classification**: Categorizes tokens as LOW (Safe), MEDIUM (Warning), or HIGH (Danger)
 - **Detailed Reports**: Shows token metadata, safety scores, and specific risk factors
 
-## 📋 Prerequisites
+##  Prerequisites
 
 Before using this tool, you must have:
 
@@ -23,7 +23,7 @@ Before using this tool, you must have:
 - **Internet connection** for RugCheck API access
 - **Terminal** with ANSI color support
 
-## 🛠️ Installation
+## Installation
 
 Follow these steps to set up the Solana Token Detector project on your local machine:
 
@@ -46,7 +46,7 @@ pip install -r requirements.txt
 python solana_token_detector.py
 ```
 
-## 🖥️ Interface Preview
+## Interface Preview
 
 When you start the bot, you'll see this clean, interactive interface:
 
@@ -58,7 +58,7 @@ The interface features:
 - **Current configuration** display (threshold and polling interval)
 - **Clear instructions** for navigation and operation
 
-## 🎯 Usage
+##  Usage
 
 ### Main Menu Options
 
@@ -156,15 +156,8 @@ The bot also shows real-time processing details:
 - `safe_to_buy.json` - Database of safe tokens
 - `requirements.txt` - Python dependencies
 
-## 🔍 How It Works
 
-1. **Token Discovery**: Polls RugCheck's `/stats/new_tokens` endpoint
-2. **Risk Assessment**: Fetches detailed analysis from `/tokens/{mint}/report/summary`
-3. **Classification**: Applies configurable threshold to determine risk level
-4. **Storage**: Automatically saves LOW-risk tokens to local database
-5. **Reporting**: Displays comprehensive token analysis with risk factors
-
-## 🎯 Use Cases
+##  Use Cases
 
 - **Token Research**: Discover new Solana tokens as they're minted
 - **Risk Assessment**: Evaluate token safety before investment decisions
@@ -172,7 +165,7 @@ The bot also shows real-time processing details:
 - **Due Diligence**: Analyze creator history and token economics
 - **Portfolio Management**: Identify potentially safe investment opportunities
 
-## ⚠️ Important Notes
+##  Important Notes
 
 - **Educational Purpose Only**: Not financial advice
 - **API Limits**: Respect RugCheck's rate limits
@@ -180,7 +173,7 @@ The bot also shows real-time processing details:
 - **Data Persistence**: Tokens stored locally in JSON format
 - **Real-time Updates**: Continuous monitoring until manually stopped
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 - **Import Errors**: Ensure all dependencies are installed
 - **API Failures**: Check internet connection and RugCheck status
