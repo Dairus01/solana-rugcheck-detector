@@ -1,0 +1,5 @@
+{
+  "score_threshold": 80,
+  "polling_interval": 10,
+  "api_timeout": 10
+}

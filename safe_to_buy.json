@@ -1,0 +1,2658 @@
+[
+  {
+    "mint": "5R8AGGXqiQXoRnbboaWVbBpi7tttTWViw4G3jmVhpump",
+    "name": "",
+    "symbol": "TROLLZ",
+    "creator": "LWaBQ34K8zYknLAUeMTJe9phwxB3qt3fUWWCNHFMjto",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "detected_at": "2025-08-08 01:32:23 UTC+01:00"
+  },
+  {
+    "mint": "9bFw32kEoDFvJjzKp6rrBoG21RbNsC8xDPTFP6qkHVC5",
+    "name": "",
+    "symbol": "EARN",
+    "creator": "2bz2KkUZe9TDQTqXrQGqAkJwt6zxVcxqCHFdcRVCMRZi",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "detected_at": "2025-08-08 01:32:57 UTC+01:00"
+  },
+  {
+    "mint": "DSer9hkUcA3fJ1FMX3KzQYvaR8ooXBHFWYARso6gNp1D",
+    "name": "",
+    "symbol": "PENGU",
+    "creator": "bwamJzztZsepfkteWRChggmXuiiCQvpLqPietdNfSXa",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "detected_at": "2025-08-08 01:33:29 UTC+01:00"
+  },
+  {
+    "mint": "2ppfBGM9qjwx1yhGTAsuHWtMfqYkeD8ZpaDBEZQFpump",
+    "name": "",
+    "symbol": "Leonardo",
+    "creator": "C4udGwTg6oqcrr8SmSLmkcXDbaFEcopsiaT21KUE4psU",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "detected_at": "2025-08-08 01:33:29 UTC+01:00"
+  },
+  {
+    "mint": "AtHUu3kzAb4Ku3xAuFuNbPtHEB3WFa9j2U7JvVFapump",
+    "name": "",
+    "symbol": "OIL",
+    "creator": "CmSz4qm9W1GWFPTnBVbvPhdzn8sypZmkG29yzRcgckUq",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      },
+      {
+        "name": "Low Liquidity",
+        "value": "$5.17",
+        "description": "Low amount of liquidity in the token pool",
+        "score": 1940,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-08 02:26:08 UTC+01:00"
+  },
+  {
+    "mint": "22UQte44J87GY7zKUNWjampWCDwmvSPbcb8ZgCKDbonk",
+    "name": "",
+    "symbol": "unicode",
+    "creator": "Coq2sMyktwqPDkDCTTA4mw92shPTkEvVXPDgmHr1pwYQ",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      },
+      {
+        "name": "Low Liquidity",
+        "value": "$0.00",
+        "description": "Low amount of liquidity in the token pool",
+        "score": 1990,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-08 02:26:08 UTC+01:00"
+  },
+  {
+    "mint": "vT17i8Eg7azuMENAoG3eDRfXaV2VyjVHeePU7msbonk",
+    "name": "",
+    "symbol": "NP",
+    "creator": "zeYQS5yB91CGVdUFdFWfb9FRVTCjrQ6gPSvyxKaKDLQ",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-08 02:30:05 UTC+01:00"
+  },
+  {
+    "mint": "HvsjiuwhviQrsPcDEsDp94DobDu9ftmLNsoCfGNtfXox",
+    "name": "",
+    "symbol": "NIVORA",
+    "creator": "B9Zbs2W9VK22AHnCWiK4PqBueDFzN17RNAFu5uFozLMJ",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 117600,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-08 02:30:05 UTC+01:00"
+  },
+  {
+    "mint": "AwJiH1TWXgCimH6P44im63ECVRQhn6iotnUyvAeYXVub",
+    "name": "",
+    "symbol": "OTC",
+    "creator": "bwamJzztZsepfkteWRChggmXuiiCQvpLqPietdNfSXa",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-08 02:30:48 UTC+01:00"
+  },
+  {
+    "mint": "9qt2r6XfQhX24kXezhZuUsBmsoBwYFKzAyiz5n5Zpump",
+    "name": "",
+    "symbol": "NLD",
+    "creator": "2u19GBoJYinqywfiaa5SoMXQWFgYesYECgQZ66PfYFBu",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 112800,
+        "level": "danger"
+      },
+      {
+        "name": "Low Liquidity",
+        "value": "$173.83",
+        "description": "Low amount of liquidity in the token pool",
+        "score": 26,
+        "level": "warn"
+      }
+    ],
+    "detected_at": "2025-08-08 02:31:33 UTC+01:00"
+  },
+  {
+    "mint": "3zFa7npwgpbQ9mvtKYjWwFkVHoFA1qbvxunmW4eY3q2R",
+    "name": "",
+    "symbol": "Vendor",
+    "creator": "jew19JvV87ZTcC7XUNwJ6vsimqUpBLdW9w1AudDm6QT",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 112800,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-08 02:31:33 UTC+01:00"
+  },
+  {
+    "mint": "D3bQ6m7VQmom6swRkhULytzmy3T5ebyKikF2RrCzpump",
+    "name": "",
+    "symbol": "NLD",
+    "creator": "HaSdFi2wKLTguxuh4PMBgZuAscbMGEF8XnMHgD5vUeGr",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-08 02:32:50 UTC+01:00"
+  },
+  {
+    "mint": "BwyZbcN6YWs57SjbXKyStvZ7Qv2QxABhkSLbC2WYbonk",
+    "name": "",
+    "symbol": "NDL",
+    "creator": "5qE3p7fd9Q8QiyhxCbW4jGN8qeHWZek2cVJftCCCJpLh",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-08 02:32:50 UTC+01:00"
+  },
+  {
+    "mint": "6amtmrvqYDuVcxRppLPuqdw4PXp1imkgdo5wGdibbonk",
+    "name": "",
+    "symbol": "psyop",
+    "creator": "3mjHNqaPGVYncmd95w9TC3XGQe3EwGykGZiDQyhDxwhU",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-08 02:33:31 UTC+01:00"
+  },
+  {
+    "mint": "7wqKj9bR4cNHnBnnjBD4hNsgUcadi929dndPWFeXpump",
+    "name": "",
+    "symbol": "BDJ",
+    "creator": "EEfQuoFTmLNNELpWtCN1ohbWJTcTzP1ZXTVKDDS8iSA8",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 117600,
+        "level": "danger"
+      },
+      {
+        "name": "Low Liquidity",
+        "value": "$37.87",
+        "description": "Low amount of liquidity in the token pool",
+        "score": 1620,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-08 02:36:19 UTC+01:00"
+  },
+  {
+    "mint": "7Gn7tv7SALaNgFaE8DT5L8JmiELrKQXwCFrma1pupump",
+    "name": "",
+    "symbol": "fcash",
+    "creator": "37uM1rp8TK7eVURVRnjtaxGkdJyXjgA9uz83DjApcHvq",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-08 02:38:08 UTC+01:00"
+  },
+  {
+    "mint": "FpHqoBPwhtdZm6Tb7nToC2vDKkCsDbMHG9VnpSebpump",
+    "name": "",
+    "symbol": "AHHC",
+    "creator": "HaSdFi2wKLTguxuh4PMBgZuAscbMGEF8XnMHgD5vUeGr",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-08 02:38:08 UTC+01:00"
+  },
+  {
+    "mint": "C6szgrGjvnGbPTqG5eb7dkhutLPC33TtodvaTvBWpump",
+    "name": "",
+    "symbol": "first step",
+    "creator": "3mjHNqaPGVYncmd95w9TC3XGQe3EwGykGZiDQyhDxwhU",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-08 02:39:59 UTC+01:00"
+  },
+  {
+    "mint": "3avJnjGZ9X1qqDXbRNg8UuqZucYVi1Zc2kx23DJb8GDW",
+    "name": "",
+    "symbol": "BGITW",
+    "creator": "bwamJzztZsepfkteWRChggmXuiiCQvpLqPietdNfSXa",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-08 02:39:59 UTC+01:00"
+  },
+  {
+    "mint": "9216GJ5BU47iaT99rXG77RQFnGgZUmTKMQDzEKHYpump",
+    "name": "",
+    "symbol": "STEP",
+    "creator": "HaSdFi2wKLTguxuh4PMBgZuAscbMGEF8XnMHgD5vUeGr",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      },
+      {
+        "name": "Copycat token",
+        "value": "",
+        "description": "This token is using a verified tokens symbol",
+        "score": 2000,
+        "level": "warn"
+      }
+    ],
+    "detected_at": "2025-08-08 02:39:59 UTC+01:00"
+  },
+  {
+    "mint": "5Y8xX6mpjLgKN1SzGmK2saNvoWpK9oKGXJpP95YSJ8hV",
+    "name": "",
+    "symbol": "WATERBALLS",
+    "creator": "99UtKhdi1RfmMGRpi7kbWz6AQ2y4JkFmxC3swMVMDioZ",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 117600,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-08 02:39:59 UTC+01:00"
+  },
+  {
+    "mint": "6z6nbdpBo43FJFtyFrD4Br7a1jZrZDPHE9RDXhcvhT4y",
+    "name": "",
+    "symbol": "BAG IT",
+    "creator": "99UtKhdi1RfmMGRpi7kbWz6AQ2y4JkFmxC3swMVMDioZ",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 117600,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-08 02:42:26 UTC+01:00"
+  },
+  {
+    "mint": "FRm5SSKGETLyy7RV9EBB77jUKvSmX9kevPavywpPbonk",
+    "name": "",
+    "symbol": "NLD",
+    "creator": "En5AaBtu96ZQTdkjA9FV17ccYUKqgVRaM3rkDW5rJGZs",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 110400,
+        "level": "danger"
+      },
+      {
+        "name": "Low Liquidity",
+        "value": "$0.00",
+        "description": "Low amount of liquidity in the token pool",
+        "score": 1990,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-08 02:45:19 UTC+01:00"
+  },
+  {
+    "mint": "CRhTR4fCVLVUSQ299zXMYueKqtKie3WdaEu9fnn6BFUi",
+    "name": "",
+    "symbol": "BJS",
+    "creator": "C88rn1cz1PcRJFh44TuynaWbnRis4xuBRi65sD1Nwxog",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 112800,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-08 02:51:15 UTC+01:00"
+  },
+  {
+    "mint": "428T9WzV5twmBFeqcCfGGAgbqLbL4DUo818cwbGopump",
+    "name": "",
+    "symbol": "PRAY",
+    "creator": "9JpS7Uwz551rbBnZhzPmPUSNvkAvjoREL71JbsvBo2x8",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 110400,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-08 02:51:15 UTC+01:00"
+  },
+  {
+    "mint": "2vqzuwHiem7ReStadQ688xmYvUFoufRxT96pgkAGpump",
+    "name": "",
+    "symbol": "cumpound",
+    "creator": "24koD5WPdjs1eNYPmMPeLthsH3EaitJ2wsLw2RKtXvxd",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 117600,
+        "level": "danger"
+      },
+      {
+        "name": "Low Liquidity",
+        "value": "$172.73",
+        "description": "Low amount of liquidity in the token pool",
+        "score": 27,
+        "level": "warn"
+      }
+    ],
+    "detected_at": "2025-08-08 02:51:15 UTC+01:00"
+  },
+  {
+    "mint": "DSXXpyrZX7qqRuKp4foURwKqgjMasC1LcXnY98Hwpump",
+    "name": "",
+    "symbol": "EL CHEPE",
+    "creator": "3bpKcfQBnNUYQ9xyN5fs8iu11ztDcWHkXNncjDLufYyg",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 115200,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-08 02:51:15 UTC+01:00"
+  },
+  {
+    "mint": "CWAPjVKuAWursicqXJYvLanSY2rYcdD8WAhj3H5vbonk",
+    "name": "",
+    "symbol": "BONK",
+    "creator": "D6HptPwUg2AhEmp5R7bxwi6pBKaFPTeFSfAf9RRMQa2U",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 110400,
+        "level": "danger"
+      },
+      {
+        "name": "Copycat token",
+        "value": "",
+        "description": "This token is using a verified tokens symbol",
+        "score": 2000,
+        "level": "warn"
+      }
+    ],
+    "detected_at": "2025-08-08 02:55:47 UTC+01:00"
+  },
+  {
+    "mint": "DQQsSZRc2e13ad7ozQJpuMNaSje3hRa8N3vcA3Nupump",
+    "name": "",
+    "symbol": "UNIPCSCOIN",
+    "creator": "trixWyRo7tpEd6wFMeqWffHKvWfhyYHKqNdXKNovVa3",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 112800,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-08 02:55:47 UTC+01:00"
+  },
+  {
+    "mint": "GFF4BvtBuX3qSK4HGVJ5JpW6hMR3wGxEzsJizzGapump",
+    "name": "",
+    "symbol": "GECKO",
+    "creator": "8i5U2uNBEuTc4zskYP14zbebDg2RSwrrG8REhEnJb97K",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-08 02:56:45 UTC+01:00"
+  },
+  {
+    "mint": "AXUmhHdKbNjnE299WrU8KAMTpDYmNNp7uPuXNXyJpump",
+    "name": "",
+    "symbol": "NEWS",
+    "creator": "FVtBxjbXgU9mERgtWJ4t62RUnrn5jmH8S8uzCACB83xV",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 112800,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-08 03:03:13 UTC+01:00"
+  },
+  {
+    "mint": "DFkn79fSqKhemVMkJW4s5TpW5KkE5UwXSkKqWHKPbonk",
+    "name": "",
+    "symbol": "BASKIN",
+    "creator": "D6HptPwUg2AhEmp5R7bxwi6pBKaFPTeFSfAf9RRMQa2U",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 110400,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-08 03:05:06 UTC+01:00"
+  },
+  {
+    "mint": "CQUXDE3qCHj32G6q4bszF7iV9QYaSNXDJw4NL5CRrhbX",
+    "name": "",
+    "symbol": "Sweet",
+    "creator": "8uWXcvQ3uCQ3WYwNy7M6pzMsQ85ZkYRkGDkEaisx5TNG",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-08 03:06:45 UTC+01:00"
+  },
+  {
+    "mint": "GLRzdpouMHhtgfeRx2i63izUJey8oatpdz4U1Sqrpump",
+    "name": "",
+    "symbol": "SydneyMenu",
+    "creator": "EVmchgiVXBMAZBNyj5QBNW6duDWLUtsvH6Rk8yofXxDa",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-08 03:06:45 UTC+01:00"
+  },
+  {
+    "mint": "FpK31tHoo6DFFV1jRUhj4sNUqygTXBnpTWWvh68pump",
+    "name": "",
+    "symbol": "SSS",
+    "creator": "9bwzwZvTyB8yXdCi2Bz7TATM5nVcSGnNyB2KqhUj8Zqp",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-08 03:07:21 UTC+01:00"
+  },
+  {
+    "mint": "9LyMECPSs4WgEQz6vTuuku1JzpJSU4JccWapTHwkpump",
+    "name": "",
+    "symbol": "WASB",
+    "creator": "CM5NnPBtB83tLyW9iF6aPfiQkk4v5KHYxjC7y2Z4cybT",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 117600,
+        "level": "danger"
+      },
+      {
+        "name": "Low Liquidity",
+        "value": "$172.82",
+        "description": "Low amount of liquidity in the token pool",
+        "score": 27,
+        "level": "warn"
+      }
+    ],
+    "detected_at": "2025-08-08 03:07:56 UTC+01:00"
+  },
+  {
+    "mint": "J6PpxHXwLE4rrTs7ufpXtzKHVUfmPk5pVRPiZM2rpump",
+    "name": "",
+    "symbol": "Prayify",
+    "creator": "DKuNKQedB2yG3HuLgfZrgu2UcrnNxdVnMugbDGdknvbh",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 112800,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 11:09:35 UTC+01:00"
+  },
+  {
+    "mint": "C6qzjZZdALY11hxUnYphX8cLWdPjP2pdCLrKTgeNpump",
+    "name": "",
+    "symbol": "jewmode",
+    "creator": "Bnfd5d9pqudmKMmDDTjzUddqcVokyuvJrpCNJrkxPfc3",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 117600,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 11:09:35 UTC+01:00"
+  },
+  {
+    "mint": "83SUdiqwcBs4LFxX51ZHZtPiLG2fYLXMKGkEhp7ypump",
+    "name": "",
+    "symbol": "rapper",
+    "creator": "GpTXmkdvrTajqkzX1fBmC4BUjSboF9dHgfnqPqj8WAc4",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 11:09:35 UTC+01:00"
+  },
+  {
+    "mint": "u5YjkokjU55pQW3cLDhqZ6y86nPUHenyfVZdRDGmoon",
+    "name": "",
+    "symbol": "Olive-kun",
+    "creator": "",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 115200,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 11:09:35 UTC+01:00"
+  },
+  {
+    "mint": "5mhSMTMuf3CacUex5gsbmqdZjffZvqJPK6njm6DYpump",
+    "name": "",
+    "symbol": "waldo",
+    "creator": "DVZVbtDQuWztwS3s4sjLP8x5YoVr9jYrTz8rPBxCa6Fs",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 11:15:02 UTC+01:00"
+  },
+  {
+    "mint": "EZ2ZU2G6KdQte5bSp8kDVUaj5DDJRkSXEye8cCcDNGEe",
+    "name": "",
+    "symbol": "DDC",
+    "creator": "A7R3e1nyxaVQMcAoJ7mYKR1S76Bn7jDoNuostbSCvHyH",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 11:19:41 UTC+01:00"
+  },
+  {
+    "mint": "8Yc9sknmLppJmxjCYdTbEfnjcrvv34aEryLBb5XjD6Cj",
+    "name": "",
+    "symbol": "PACIFIER",
+    "creator": "A7R3e1nyxaVQMcAoJ7mYKR1S76Bn7jDoNuostbSCvHyH",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 11:23:10 UTC+01:00"
+  },
+  {
+    "mint": "AfWwpUq99a2GdUd5MqFTiny63DNs3gE1wzFx711upump",
+    "name": "",
+    "symbol": "CHICHI",
+    "creator": "9bwzwZvTyB8yXdCi2Bz7TATM5nVcSGnNyB2KqhUj8Zqp",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 11:30:48 UTC+01:00"
+  },
+  {
+    "mint": "DCgJXiEhgNr7ss6Uy9iaPx7DeLBu8Ay6xY2oCrpcpump",
+    "name": "",
+    "symbol": "ONEPLAY",
+    "creator": "HXBZFvyy31LXFd5s6Trvz4xTxPTo4SE17gcXbBmciQFe",
+    "score_normalised": 81,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 112800,
+        "level": "danger"
+      },
+      {
+        "name": "Large Amount of LP Unlocked",
+        "value": "100.00%",
+        "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point.",
+        "score": 10999,
+        "level": "danger"
+      },
+      {
+        "name": "Low amount of LP Providers",
+        "value": "",
+        "description": "Only a few users are providing liquidity",
+        "score": 400,
+        "level": "warn"
+      }
+    ],
+    "detected_at": "2025-08-13 11:35:05 UTC+01:00"
+  },
+  {
+    "mint": "GyheQdt2k6ZBRVWo7oNoyqh7jadQy7mUsGUocWVapump",
+    "name": "",
+    "symbol": "Bull",
+    "creator": "C4udGwTg6oqcrr8SmSLmkcXDbaFEcopsiaT21KUE4psU",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 11:40:05 UTC+01:00"
+  },
+  {
+    "mint": "EuSZF18mD472RMz15cgQ2WFxr54iN6fCedFL61UyciM6",
+    "name": "",
+    "symbol": "Bull",
+    "creator": "7Zax8aQnkVRkfByN2Ro2XmEbw6DNUwkhePCYsvfTi34z",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 11:41:30 UTC+01:00"
+  },
+  {
+    "mint": "3aMeuvZYyt4sfeg1pZk4v9pNPHtTVWTdYN1edPALpump",
+    "name": "",
+    "symbol": "Finger",
+    "creator": "GfXgvnLBgFdREtDoq9BNZAnUumtt9C8H7K6imxNHYNB",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 117600,
+        "level": "danger"
+      },
+      {
+        "name": "Low Liquidity",
+        "value": "$199.22",
+        "description": "Low amount of liquidity in the token pool",
+        "score": 0,
+        "level": "warn"
+      }
+    ],
+    "detected_at": "2025-08-13 11:41:30 UTC+01:00"
+  },
+  {
+    "mint": "Er8wzJ8jfTH8uJK5VsrUuxjcFcSe655ubeMwPUEhpump",
+    "name": "",
+    "symbol": "SPURDO",
+    "creator": "2tvA1PgypCNrmjrSRfyokUaQujGfknSHPPcvP5Ye7x1K",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 98400,
+        "level": "danger"
+      },
+      {
+        "name": "Large Amount of LP Unlocked",
+        "value": "100.00%",
+        "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point.",
+        "score": 10999,
+        "level": "danger"
+      },
+      {
+        "name": "Low amount of LP Providers",
+        "value": "",
+        "description": "Only a few users are providing liquidity",
+        "score": 400,
+        "level": "warn"
+      }
+    ],
+    "detected_at": "2025-08-13 11:41:30 UTC+01:00"
+  },
+  {
+    "mint": "BfzAhdwBBvbv11dQrE5pWZrBuymGNQQWoW5UbxfMpump",
+    "name": "",
+    "symbol": "FR",
+    "creator": "3iAi3SVnxfJBo4MjEtRBrosqgPuYjjG9DG45so6rJYU3",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 11:42:49 UTC+01:00"
+  },
+  {
+    "mint": "HBvNtc2jgPeo4KWnDMZa6pcpUd7UtgK5qQy8do5Gpump",
+    "name": "",
+    "symbol": "pumpfi.eth",
+    "creator": "6z889SuV9WnLVoPWZtqVMeUZJ6PK8n5zhGyJE1f2XqgE",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 112800,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 11:44:33 UTC+01:00"
+  },
+  {
+    "mint": "55ff66csVyziUwjtap6XYQcEH78vRkKce8wqK4Fhpump",
+    "name": "",
+    "symbol": "CULT",
+    "creator": "EjtmfiSkhTeP8vuEX37deAZS9ZTkpbiFDsSSy4fjtuBx",
+    "score_normalised": 85,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Top 10 holders high ownership",
+        "value": "",
+        "description": "The top 10 users hold more than 70% token supply",
+        "score": 76647,
+        "level": "danger"
+      },
+      {
+        "name": "Single holder ownership",
+        "value": "85.04%",
+        "description": "One user holds a large amount of the token supply",
+        "score": 74955,
+        "level": "danger"
+      },
+      {
+        "name": "Single holder ownership",
+        "value": "664.51%",
+        "description": "One user holds a large amount of the token supply",
+        "score": 66451,
+        "level": "danger"
+      },
+      {
+        "name": "High ownership",
+        "value": "",
+        "description": "The top users hold more than 80% token supply",
+        "score": 8154,
+        "level": "danger"
+      },
+      {
+        "name": "Low Liquidity",
+        "value": "$0.00",
+        "description": "Low amount of liquidity in the token pool",
+        "score": 2999,
+        "level": "danger"
+      },
+      {
+        "name": "Low amount of LP Providers",
+        "value": "",
+        "description": "Only a few users are providing liquidity",
+        "score": 500,
+        "level": "warn"
+      }
+    ],
+    "detected_at": "2025-08-13 11:46:42 UTC+01:00"
+  },
+  {
+    "mint": "HzwW6y9DZ7uZgZru589VP1dHpcghV7MGpixX9cvJpump",
+    "name": "",
+    "symbol": "SPOON",
+    "creator": "ASDv3uSm2zEGX5reH2CrfreWLKu4NG5tsZ124J4BR5gm",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 110400,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 11:51:44 UTC+01:00"
+  },
+  {
+    "mint": "Qd8HNZHcRzNjvJD8yLBJaWUTUbtZ2bNVKZyo48KCVJo",
+    "name": "",
+    "symbol": "orange",
+    "creator": "7Zax8aQnkVRkfByN2Ro2XmEbw6DNUwkhePCYsvfTi34z",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 11:51:44 UTC+01:00"
+  },
+  {
+    "mint": "9SYGPUBVxAEcmzRhrkxUDHGWHXC1hLXnPsdGvjeWpump",
+    "name": "",
+    "symbol": "HODL",
+    "creator": "A8Z1ejQGk45EJibBPJviWnM3UvwKSuYun53nSCkWKM52",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 15:48:27 UTC+01:00"
+  },
+  {
+    "mint": "NBqDJ82JgqvwP4km5oknNJnrTU9pMrb7MtfPFBUkoVd",
+    "name": "",
+    "symbol": "MEANINGFUL",
+    "creator": "BoGxGZ5yWanwcqQPYnQyRNHL7rbrX53ry1S6jtMxADb7",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 15:49:42 UTC+01:00"
+  },
+  {
+    "mint": "7EnZCVAa1nLUp6iHbZ2C79n32RL3BpWYSrFYHT34kHRw",
+    "name": "",
+    "symbol": "meme chain",
+    "creator": "bwamJzztZsepfkteWRChggmXuiiCQvpLqPietdNfSXa",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 15:54:42 UTC+01:00"
+  },
+  {
+    "mint": "AczopHfMESdii71rUE5ksrSNek5souokkNSPXSzUzACS",
+    "name": "",
+    "symbol": "YOLO",
+    "creator": "TSLvdd1pWpHVjahSpsvCXUbgwsL3JAcvokwaKt1eokM",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 15:54:42 UTC+01:00"
+  },
+  {
+    "mint": "ARw9YYychaH5eGWUaeJreULZY9fZrc557JNrWdrAbX8K",
+    "name": "",
+    "symbol": "YOLO",
+    "creator": "GGjwP7DMhGKXumFsucbtakRBoS8oL3mHYbV9nq6JKusB",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 15:54:42 UTC+01:00"
+  },
+  {
+    "mint": "CDEYQXgzjXZeKoF1Tb6hZWg5px8FasKVj59zKjFUpump",
+    "name": "",
+    "symbol": "PUMP",
+    "creator": "8HeDT75s5g4CtCimH5B5nySqCiQhtWii8UnZhxBtFo38",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      },
+      {
+        "name": "Copycat token",
+        "value": "",
+        "description": "This token is using a verified tokens symbol",
+        "score": 2000,
+        "level": "warn"
+      }
+    ],
+    "detected_at": "2025-08-13 15:57:01 UTC+01:00"
+  },
+  {
+    "mint": "b96gR5gfCif92hWuWYxucAncSFjzAbQCA9v7fw3TyXk",
+    "name": "",
+    "symbol": "WAGE",
+    "creator": "CQ5cyz7uirxhYWuxaVLGaj33pkEKJEEj6zGnpq8jVr5d",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 15:59:53 UTC+01:00"
+  },
+  {
+    "mint": "Fgakqw4TN1esQVFPF9H73a8QvBaAGhcsbSkuURc5BKvC",
+    "name": "",
+    "symbol": "$$$$",
+    "creator": "TSLvdd1pWpHVjahSpsvCXUbgwsL3JAcvokwaKt1eokM",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 117600,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 15:59:53 UTC+01:00"
+  },
+  {
+    "mint": "Z3oQcKMM6Kz5w573QzgmVLh81JUG9BhyKwYyecXa9yG",
+    "name": "",
+    "symbol": "BREAD",
+    "creator": "TSLvdd1pWpHVjahSpsvCXUbgwsL3JAcvokwaKt1eokM",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 110400,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 16:00:36 UTC+01:00"
+  },
+  {
+    "mint": "9xDKjHUegkUtvLj9gCaD6xKEVqSULbskhKdGE4LKpump",
+    "name": "",
+    "symbol": "TOKENOMY",
+    "creator": "TSLvdd1pWpHVjahSpsvCXUbgwsL3JAcvokwaKt1eokM",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 16:01:30 UTC+01:00"
+  },
+  {
+    "mint": "5QSttftr4G7U2EQYvoau3P5wFg9mmrmxtwi7tpopNtgX",
+    "name": "",
+    "symbol": "AMAZON",
+    "creator": "G7NvZKjoVqBDWciSYtWWgUPB7DA1iJavdvH5jty2FAmM",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 16:02:35 UTC+01:00"
+  },
+  {
+    "mint": "3KLb8GtZbM4rQZ33VSUq8UscwySpEemg7ENekKsSbonk",
+    "name": "",
+    "symbol": "mogdog",
+    "creator": "6d22FozaKK239PoBYVffkYKA1QPQZE8fC7AQkpmHQfjp",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 117600,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 16:06:12 UTC+01:00"
+  },
+  {
+    "mint": "F1HVoHeVLrBqKZGSjUmcGM2jfF7ACsxTeNuDTLFfpump",
+    "name": "",
+    "symbol": "SLAVE",
+    "creator": "9YqVz1PUgUDvM46uMpyWaCrwMn2FbquSpcpAw9DhBYVE",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 115200,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 16:08:21 UTC+01:00"
+  },
+  {
+    "mint": "FW8Gi9xoTqbHXPQYkvqXA33Ng3LYz9dnN9tchRw3pump",
+    "name": "",
+    "symbol": "froge",
+    "creator": "TSLvdd1pWpHVjahSpsvCXUbgwsL3JAcvokwaKt1eokM",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 115200,
+        "level": "danger"
+      },
+      {
+        "name": "Single holder ownership",
+        "value": "26.42%",
+        "description": "One user holds a large amount of the token supply",
+        "score": 2642,
+        "level": "warn"
+      }
+    ],
+    "detected_at": "2025-08-13 16:09:49 UTC+01:00"
+  },
+  {
+    "mint": "6mPB1sQBtMShk8qDPbgKE9SErFvc54tS4weqNyGUpump",
+    "name": "",
+    "symbol": "Son",
+    "creator": "8HeDT75s5g4CtCimH5B5nySqCiQhtWii8UnZhxBtFo38",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 22:35:32 UTC+01:00"
+  },
+  {
+    "mint": "4trVAixRqNx2RM6VoX1dJwbmLoz57QxJ9VTPv3Wtbonk",
+    "name": "",
+    "symbol": "YACHTCOIN",
+    "creator": "3aSK636CiT9Tb9o3CRcNHig18Qs7qBSf7zVau9zf2K95",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      },
+      {
+        "name": "Low Liquidity",
+        "value": "$0.00",
+        "description": "Low amount of liquidity in the token pool",
+        "score": 1990,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 22:46:44 UTC+01:00"
+  },
+  {
+    "mint": "BF8wrscnHeyZ4CYgxAWHJXmtMCY1Q1dzGMtkbQAupump",
+    "name": "",
+    "symbol": "humans",
+    "creator": "CGqev6qTnrJtpyYeTNG3TMuWMBbyd8D4YfinjqaUe5gy",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 117600,
+        "level": "danger"
+      },
+      {
+        "name": "Low Liquidity",
+        "value": "$41.40",
+        "description": "Low amount of liquidity in the token pool",
+        "score": 1580,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 22:46:44 UTC+01:00"
+  },
+  {
+    "mint": "APM54XmpGqMJkkau1FkjfnYZGqhs1gbLxjq1ZwSNq7Wf",
+    "name": "",
+    "symbol": "CHATTY",
+    "creator": "7zAfNwfojgBH2WHTobEEemVPeHHZEvLBm5xZUZpBsUwC",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 112800,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 22:51:31 UTC+01:00"
+  },
+  {
+    "mint": "5rR9NwpsBbYd6A15sRapwrB91DSYZsA7T1i3a9fGpump",
+    "name": "",
+    "symbol": "initials",
+    "creator": "5fcJVhJDrgVhp694ddL1dSR55TMxd65nBgHKC21ggoGe",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 22:54:15 UTC+01:00"
+  },
+  {
+    "mint": "47NvZbSCREgyjLo31owJq1m2Ufoo2477qARsrqaRQBYv",
+    "name": "",
+    "symbol": "SPACED",
+    "creator": "5LuRamDAUdLP6Ya9caR6X4GJjfn3Bj6LwsQ1YficVpja",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      },
+      {
+        "name": "Low Liquidity",
+        "value": "$1.36",
+        "description": "Low amount of liquidity in the token pool",
+        "score": 1980,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 22:54:15 UTC+01:00"
+  },
+  {
+    "mint": "DccmAk9TMZohNYxeMxN78vcgtn9om9ZLXKwGRBJZpump",
+    "name": "",
+    "symbol": "RISKLESS",
+    "creator": "BTrc77fRyK56XPhiL72sZVWBb11QVkRE4Pwz94ndLjMf",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 110400,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 22:55:42 UTC+01:00"
+  },
+  {
+    "mint": "9STzUQmGw58GM7HiM4cJFTxSWbYrThvtc2P5FvcfNwej",
+    "name": "",
+    "symbol": "ROCKY",
+    "creator": "5LuRamDAUdLP6Ya9caR6X4GJjfn3Bj6LwsQ1YficVpja",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      },
+      {
+        "name": "Low Liquidity",
+        "value": "$1.34",
+        "description": "Low amount of liquidity in the token pool",
+        "score": 1980,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 23:11:51 UTC+01:00"
+  },
+  {
+    "mint": "eKnrs5tVM1SnschpoQBDwX78YKeweWagEatcLhHpump",
+    "name": "",
+    "symbol": "Catcoin",
+    "creator": "ERy6KwBjaW9WHW63Pyvj7jeH7gokkcsEZAT45QBqvmFv",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 105600,
+        "level": "danger"
+      },
+      {
+        "name": "Large Amount of LP Unlocked",
+        "value": "100.00%",
+        "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point.",
+        "score": 10999,
+        "level": "danger"
+      },
+      {
+        "name": "Low amount of LP Providers",
+        "value": "",
+        "description": "Only a few users are providing liquidity",
+        "score": 400,
+        "level": "warn"
+      }
+    ],
+    "detected_at": "2025-08-13 23:11:51 UTC+01:00"
+  },
+  {
+    "mint": "DrjF9DVQf3uzuJzVNq45WF3q18YWRQXS8QzUiMnFWyPt",
+    "name": "",
+    "symbol": "MPOPT",
+    "creator": "5LuRamDAUdLP6Ya9caR6X4GJjfn3Bj6LwsQ1YficVpja",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      },
+      {
+        "name": "Low Liquidity",
+        "value": "$1.36",
+        "description": "Low amount of liquidity in the token pool",
+        "score": 1980,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 23:15:51 UTC+01:00"
+  },
+  {
+    "mint": "GifhcXR7nCXUseV72jC6QYvwtj5c6TTNStDbsayepump",
+    "name": "",
+    "symbol": "MAJOR",
+    "creator": "5kTfix6dceRuznzExRBjZoxUxwfNb6ShpwFE8qcN5VuJ",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 117600,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 23:18:10 UTC+01:00"
+  },
+  {
+    "mint": "6yZmdvsNvPAqEKYGbqAQuMDrFVZ251LyFmUaLNv5pump",
+    "name": "",
+    "symbol": "Fame",
+    "creator": "8NJ7Ujpji8uMF2675mqaTSEm2DCbfJA7fiRKtiaqkaLN",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 112800,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 23:24:29 UTC+01:00"
+  },
+  {
+    "mint": "GUyzcAibP8utUiaCtXT8cGvbsiUtdG7NNgJYNaTCpump",
+    "name": "",
+    "symbol": "#byenigger",
+    "creator": "Bc2dPoZAPggxjRJy9Ca88gP1dCVhZSkcy2NpbTSwYpKy",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 117600,
+        "level": "danger"
+      },
+      {
+        "name": "Low Liquidity",
+        "value": "$50.08",
+        "description": "Low amount of liquidity in the token pool",
+        "score": 1490,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 23:24:29 UTC+01:00"
+  },
+  {
+    "mint": "9jMXu58QKu5R5r9mgU8CVtM7rxCNobgCaSFXPDmNpump",
+    "name": "",
+    "symbol": "THELION",
+    "creator": "4o3yQZU67exoMxoDEAg14o8EdJqUAy2pQysft14AeZRQ",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 112800,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 23:30:37 UTC+01:00"
+  },
+  {
+    "mint": "BXGtNNaTQHRsgYsp7xc9SrnLTTi91zi8pPhDUR2Epump",
+    "name": "",
+    "symbol": "ALT",
+    "creator": "BTrc77fRyK56XPhiL72sZVWBb11QVkRE4Pwz94ndLjMf",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 23:30:37 UTC+01:00"
+  },
+  {
+    "mint": "2odokS9Hs9pGN8WGxn3YAD419SKVVzLMT5dycZXKpump",
+    "name": "",
+    "symbol": "FAPCOIN",
+    "creator": "5fcJVhJDrgVhp694ddL1dSR55TMxd65nBgHKC21ggoGe",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 23:33:37 UTC+01:00"
+  },
+  {
+    "mint": "9JLN4vVUTVSZADqiDxSZtkSDEEZc3KvsTA1XAEnSpump",
+    "name": "",
+    "symbol": "FUN",
+    "creator": "DaPHw3Aa1wbzC53EmToqS1XnywJySySTjwBLd4fj51zy",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 115200,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 23:35:34 UTC+01:00"
+  },
+  {
+    "mint": "2wV4wwyFhyr9YcxSoLWgRozBeyFuwWVb3pRpKPcdrEhp",
+    "name": "",
+    "symbol": "HIGHER",
+    "creator": "AApCsy9JAz2EXNwjcpcZZwmdPKvgFBq3Fncov6kBYx2S",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 23:50:37 UTC+01:00"
+  },
+  {
+    "mint": "Ass6xed7hX19UHichMW862Qt16uQR1TUUjjizr2upump",
+    "name": "",
+    "symbol": "grah",
+    "creator": "2fku4HMKPNho7mimbtLnyQFScmYejYu6BuTzogDePB86",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-13 23:54:31 UTC+01:00"
+  },
+  {
+    "mint": "GjMX9ynq2gpqpcWJQVdSPwdRUykisNV6Bq2Kqdqapump",
+    "name": "",
+    "symbol": "Parallel",
+    "creator": "GkNSyysEqJ25uKbvQ7qXuFZVXWc2pama5oPs87E2wkyZ",
+    "score_normalised": 81,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 115200,
+        "level": "danger"
+      },
+      {
+        "name": "Large Amount of LP Unlocked",
+        "value": "100.00%",
+        "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point.",
+        "score": 10999,
+        "level": "danger"
+      },
+      {
+        "name": "Low amount of LP Providers",
+        "value": "",
+        "description": "Only a few users are providing liquidity",
+        "score": 400,
+        "level": "warn"
+      }
+    ],
+    "detected_at": "2025-08-14 20:55:10 UTC+01:00"
+  },
+  {
+    "mint": "7VtHTqtCpz2SNgx7NJUvRKuXMTP7GezUqaLfZKyapump",
+    "name": "",
+    "symbol": "USAi",
+    "creator": "455XofRZbMDb45ig7BRXkTm7FbQxYKfwfVDS6MWeYk4X",
+    "score_normalised": 81,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 112800,
+        "level": "danger"
+      },
+      {
+        "name": "Large Amount of LP Unlocked",
+        "value": "100.00%",
+        "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point.",
+        "score": 10999,
+        "level": "danger"
+      },
+      {
+        "name": "Low amount of LP Providers",
+        "value": "",
+        "description": "Only a few users are providing liquidity",
+        "score": 400,
+        "level": "warn"
+      }
+    ],
+    "detected_at": "2025-08-14 21:26:21 UTC+01:00"
+  },
+  {
+    "mint": "CSgHrrx3Po6CxLWmdUeapnoqrPJJh5LvjdHP14DQbonk",
+    "name": "",
+    "symbol": "Billy",
+    "creator": "3aSK636CiT9Tb9o3CRcNHig18Qs7qBSf7zVau9zf2K95",
+    "score_normalised": 81,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      },
+      {
+        "name": "Copycat token",
+        "value": "",
+        "description": "This token is using a verified tokens symbol",
+        "score": 2000,
+        "level": "warn"
+      },
+      {
+        "name": "Low Liquidity",
+        "value": "$16.38",
+        "description": "Low amount of liquidity in the token pool",
+        "score": 1830,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-14 23:40:57 UTC+01:00"
+  },
+  {
+    "mint": "BHPXw6ZabEivSraSGMbqk1eKpQPtULJ5em1Rd2e5gkd2",
+    "name": "",
+    "symbol": "MULTISIG",
+    "creator": "E9fMzmPQpyTTWm5LGhL54ZT3ksakYMdKzJMshnLNvkpe",
+    "score_normalised": 81,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Mint Authority still enabled",
+        "value": "",
+        "description": "More tokens can be minted by the owner",
+        "score": 50000,
+        "level": "danger"
+      },
+      {
+        "name": "Freeze Authority still enabled",
+        "value": "",
+        "description": "Tokens can be frozen and prevented from trading",
+        "score": 25000,
+        "level": "danger"
+      },
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 16800,
+        "level": "danger"
+      },
+      {
+        "name": "Top 10 holders high ownership",
+        "value": "",
+        "description": "The top 10 users hold more than 70% token supply",
+        "score": 10100,
+        "level": "danger"
+      },
+      {
+        "name": "Single holder ownership",
+        "value": "37.50%",
+        "description": "One user holds a large amount of the token supply",
+        "score": 10000,
+        "level": "warn"
+      },
+      {
+        "name": "Single holder ownership",
+        "value": "62.50%",
+        "description": "One user holds a large amount of the token supply",
+        "score": 6250,
+        "level": "danger"
+      },
+      {
+        "name": "Low Liquidity",
+        "value": "$0.00",
+        "description": "Low amount of liquidity in the token pool",
+        "score": 3000,
+        "level": "danger"
+      },
+      {
+        "name": "High ownership",
+        "value": "",
+        "description": "The top users hold more than 80% token supply",
+        "score": 1500,
+        "level": "danger"
+      },
+      {
+        "name": "Low amount of LP Providers",
+        "value": "",
+        "description": "Only a few users are providing liquidity",
+        "score": 500,
+        "level": "warn"
+      },
+      {
+        "name": "Mutable metadata",
+        "value": "",
+        "description": "Token metadata can be changed by the owner",
+        "score": 100,
+        "level": "warn"
+      }
+    ],
+    "detected_at": "2025-08-15 23:25:49 UTC+01:00"
+  },
+  {
+    "mint": "pdPR3tvtUy3e8tUjgZHP2f2Peiis14kyfpsaipXDMHq",
+    "name": "",
+    "symbol": "CHARACTERA",
+    "creator": "moanTeQ4d1c1wtZYENytCm1yZDXwUcUYTnSNpjpB4jF",
+    "score_normalised": 81,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      },
+      {
+        "name": "Single holder ownership",
+        "value": "26.82%",
+        "description": "One user holds a large amount of the token supply",
+        "score": 2682,
+        "level": "warn"
+      }
+    ],
+    "detected_at": "2025-08-17 17:54:59 UTC+01:00"
+  },
+  {
+    "mint": "2NnUKxWtkC93hcJSYZ1FxzW5ZsNskbDWAhk5FMSRpump",
+    "name": "",
+    "symbol": "MNAPPED",
+    "creator": "4Lt48Fv7BDViVveym55W1STXx6srSbdY7LPyjdLh5LdS",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 115200,
+        "level": "danger"
+      },
+      {
+        "name": "Low Liquidity",
+        "value": "$0.96",
+        "description": "Low amount of liquidity in the token pool",
+        "score": 1990,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-17 19:17:57 UTC+01:00"
+  },
+  {
+    "mint": "6joU3zx9YSJxjjdqe3v9x3WENutE7G1pviUmMna9pump",
+    "name": "",
+    "symbol": "FreeProfit",
+    "creator": "CXdZCte4b7HBQ3WzCthgoq9RtKR1c8b1fgL2UEtbrKC4",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 112800,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-17 19:18:41 UTC+01:00"
+  },
+  {
+    "mint": "XgLcktmZ3KmVRYXuFb1KfnKvUWfdBPR9NbeyqTKpump",
+    "name": "",
+    "symbol": "furnace",
+    "creator": "F23b8KDph9QDKacvmktWya6LQ937Z6qMzUzHuaxrnE3t",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 112800,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-17 19:19:56 UTC+01:00"
+  },
+  {
+    "mint": "Jk4HKJkF2nx3z1Yu4QMTuDS9CPnE8pMsAZEkKFepump",
+    "name": "",
+    "symbol": "Kill Pepe",
+    "creator": "7E3Wbc3LK7KkYVWD2gFEYEKqjZXKz7qWbayYZwdbBQSM",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-17 19:20:32 UTC+01:00"
+  },
+  {
+    "mint": "3SsEpf7Lr2k3b3M7BKZSM1Q5vQGPT599RvmMv4gwJ4Vf",
+    "name": "",
+    "symbol": "Kill Pepe",
+    "creator": "bwamJzztZsepfkteWRChggmXuiiCQvpLqPietdNfSXa",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-17 19:20:32 UTC+01:00"
+  },
+  {
+    "mint": "5TLSpHLDZC18Y6NjBXiJuaaAENmVGfRtM9R878nFpump",
+    "name": "",
+    "symbol": "SPLAT",
+    "creator": "4CsLWn5F7uCdabyBc1ZWVJQXew5hqxW8FSw47x72XC2r",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      },
+      {
+        "name": "Copycat token",
+        "value": "",
+        "description": "This token is using a verified tokens symbol",
+        "score": 2000,
+        "level": "warn"
+      }
+    ],
+    "detected_at": "2025-08-17 19:20:56 UTC+01:00"
+  },
+  {
+    "mint": "EvHrpQXuuX5b1Eq7NpnbawUmJYJPX1pAFpXixBbhwC3v",
+    "name": "",
+    "symbol": "DBOAT",
+    "creator": "5LuRamDAUdLP6Ya9caR6X4GJjfn3Bj6LwsQ1YficVpja",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 117600,
+        "level": "danger"
+      },
+      {
+        "name": "Low Liquidity",
+        "value": "$9.66",
+        "description": "Low amount of liquidity in the token pool",
+        "score": 1900,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-17 19:21:50 UTC+01:00"
+  },
+  {
+    "mint": "7zJyFQPjK16hTY6CfrnGzf44rSTYHUvDcLo64WWtpump",
+    "name": "",
+    "symbol": "wifhaste",
+    "creator": "97X28nhxuHzrdyX4PvDYzE6nFZZKqz1TvBrz8q1ipod1",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-17 19:21:50 UTC+01:00"
+  },
+  {
+    "mint": "FmVhmufTM2MpEP6n9NNhegXtahB8TFXyBYufbbP1pump",
+    "name": "",
+    "symbol": "Taehyun",
+    "creator": "Dwf1RDeYwLh948Efa4DFhomnzXD7UmSUhAKB9bnRuvB8",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-17 19:25:52 UTC+01:00"
+  },
+  {
+    "mint": "6WR6USFWA2g4DmrJAFP5Y1PYRzib9X4K4ghvhRTNpump",
+    "name": "",
+    "symbol": "mana",
+    "creator": "GKMEFe7LD2S3V2oQfZAuPd1saCgTF1ivcwVLh3oFNLsw",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 115200,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-17 19:28:38 UTC+01:00"
+  },
+  {
+    "mint": "3TVeA2y5LfjoYopNfHit4sh5GpvFDGboP3XQC5cZpump",
+    "name": "",
+    "symbol": "BILLIE",
+    "creator": "Bt6Viy98AkYwFL5VD15ScWY6BvzDCX3HJCM7Mj6pHJMa",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-17 19:30:00 UTC+01:00"
+  },
+  {
+    "mint": "GcBmuweh5Lt4KK15mPt5rVfYpcyjPbKmT7tVpUS893hN",
+    "name": "",
+    "symbol": "KRYPTOS",
+    "creator": "moanTeQ4d1c1wtZYENytCm1yZDXwUcUYTnSNpjpB4jF",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-17 19:30:45 UTC+01:00"
+  },
+  {
+    "mint": "6kUyx2fBcpM4pkJjpDD2t5mtGGmuY4RjThjryRVz7i6T",
+    "name": "",
+    "symbol": "myself",
+    "creator": "55uSQbpQTHVDn1KibiKrgcDVHtXVgg63EH56KmuFojAy",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-17 19:31:14 UTC+01:00"
+  },
+  {
+    "mint": "BTe2C2UMc5iyeaiKfYreGWe7J5nToS22eWt5GPjdpump",
+    "name": "",
+    "symbol": "HIM",
+    "creator": "6LK8kys6bpu4DR22CyjdBt5SMtCkoUqQcaWAa8YdKKPQ",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 117600,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-17 19:32:31 UTC+01:00"
+  },
+  {
+    "mint": "DWhKTcRcTjLDzm92kqtMxKLYTWcuXSijzAectBDupump",
+    "name": "",
+    "symbol": "test",
+    "creator": "C4JXD4Hw77aUkTcSayRsCaENqMRLQQ1GNMQQvfdg8Cjy",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 117600,
+        "level": "danger"
+      },
+      {
+        "name": "Low Liquidity",
+        "value": "$0.00",
+        "description": "Low amount of liquidity in the token pool",
+        "score": 1990,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-17 19:32:30 UTC+01:00"
+  },
+  {
+    "mint": "F7yLw5rjR37N7sgLwR4zAFQjuCMfa5QFE42zAY3hpump",
+    "name": "",
+    "symbol": "nigger",
+    "creator": "CaN4jaXADs2mGxzHusAhJTMdGjpZRjsxTvfMTo4M3DUC",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-17 19:33:21 UTC+01:00"
+  },
+  {
+    "mint": "Ka9NfyickuWVKSxenmTWX6udshhV1TmdkRLpLyZpump",
+    "name": "",
+    "symbol": "Ellie",
+    "creator": "Nsgx8SAf9jSmwqewSttpXbEKAHSPZPae2gFLfj6Yu44",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 110400,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-17 19:34:34 UTC+01:00"
+  },
+  {
+    "mint": "CuQ282CFtLG9zowWHQLWT8WYese1vtmcgWuEJ2ppump",
+    "name": "",
+    "symbol": "CLAUDE",
+    "creator": "7E3Wbc3LK7KkYVWD2gFEYEKqjZXKz7qWbayYZwdbBQSM",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      },
+      {
+        "name": "Low Liquidity",
+        "value": "$95.60",
+        "description": "Low amount of liquidity in the token pool",
+        "score": 1040,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-17 19:35:50 UTC+01:00"
+  },
+  {
+    "mint": "4G3zGqWXLAcrysoyv63J4fZR5gZRGf5NNco9JCympump",
+    "name": "",
+    "symbol": "FARTY",
+    "creator": "7VwYwR92jSwDDRBrgeJzQrCuZzKX7jUPma3QmmQDDdqS",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-17 19:42:24 UTC+01:00"
+  },
+  {
+    "mint": "HwN5enepxWPwC7u88VUcLt9ARavgw8B48GHU9fAjpump",
+    "name": "",
+    "symbol": "stupinu",
+    "creator": "7aukKjG9wt9SVdnftTHaidRNzaMdZKS2U6wb1eB81vch",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-17 19:42:59 UTC+01:00"
+  },
+  {
+    "mint": "4ydSfky4eTa8t6PhRyPE2KNfhpbqpjazhp5cPfzxpump",
+    "name": "",
+    "symbol": "XHUB",
+    "creator": "FXTc3geaJqtcjcDGFUEyztU9SmBWLXgMSQ7Tc5s8LrLK",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 112800,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-17 19:46:07 UTC+01:00"
+  },
+  {
+    "mint": "B67w8f1M1GCsRonLxLtBxMuKz5FXqmstUxdzFAop4rc8",
+    "name": "",
+    "symbol": "XXXAI",
+    "creator": "7Zax8aQnkVRkfByN2Ro2XmEbw6DNUwkhePCYsvfTi34z",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-17 19:46:07 UTC+01:00"
+  },
+  {
+    "mint": "FoVe2jRDQXvgmKHt91FyMoqU4uAJ3kGqZwk4xuAypNSj",
+    "name": "",
+    "symbol": "JEFF",
+    "creator": "AApCsy9JAz2EXNwjcpcZZwmdPKvgFBq3Fncov6kBYx2S",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-17 19:46:07 UTC+01:00"
+  },
+  {
+    "mint": "F1q1jJXM1xVbnDEwpM8VREhyD6V3nVBy1excxubQpump",
+    "name": "",
+    "symbol": "bitboost",
+    "creator": "8k6WU2T2Zr27SjrGn7Weuhh7APFYVsZwihWDc569J5Lj",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 115200,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-17 19:46:07 UTC+01:00"
+  },
+  {
+    "mint": "69HEjuvdUL9n8YJUzt35PdKx5U5Sp8drm2H1WBxXpump",
+    "name": "",
+    "symbol": "zombiecat",
+    "creator": "6d22FozaKK239PoBYVffkYKA1QPQZE8fC7AQkpmHQfjp",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-17 19:47:00 UTC+01:00"
+  },
+  {
+    "mint": "EH9DCtLoGcEVL2EbTvbFzweGcp8H6eMtK18Ddfbvpump",
+    "name": "",
+    "symbol": "XFILES",
+    "creator": "EBx24uAPtaS1SvHwRhKEktSgzaXdiVEyHuSVpAMVwrcD",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-17 19:47:36 UTC+01:00"
+  },
+  {
+    "mint": "8z17dtM73mWC7AUkRRdHDFRSMhb7TepEqJXyboErpump",
+    "name": "",
+    "symbol": "\u98df\u7269",
+    "creator": "7VwYwR92jSwDDRBrgeJzQrCuZzKX7jUPma3QmmQDDdqS",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-17 19:48:56 UTC+01:00"
+  },
+  {
+    "mint": "FeyBca4xyYhBWNGGcSoupwYfaAHXLLL7y2EHCQ6Ypump",
+    "name": "",
+    "symbol": "GOONX",
+    "creator": "6YmahBmiUXyLJXvvpnZHSwmgghA8qM7jE8tDSDf5ir28",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 117600,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-17 19:49:12 UTC+01:00"
+  },
+  {
+    "mint": "D8zG11jA6kphfhR4yZqt6HHRubhLnpbii3XpjTkKpump",
+    "name": "",
+    "symbol": "coldwallet",
+    "creator": "8xPQJNZbR63kPHejVZm68gzwphVHwtyUDcwrKgqsafoT",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 117600,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-17 19:52:33 UTC+01:00"
+  },
+  {
+    "mint": "7mvf3Lsz2YRTqysV3MBu4xQQ6N8c5aWoQNiauPJqpump",
+    "name": "",
+    "symbol": "WORLDCOIN",
+    "creator": "AeyqriKpABdadqhbxoChTui5cyHbQ7bFVH9a6fsxr5Pt",
+    "score_normalised": 80,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      },
+      {
+        "name": "Low Liquidity",
+        "value": "$110.65",
+        "description": "Low amount of liquidity in the token pool",
+        "score": 89,
+        "level": "warn"
+      }
+    ],
+    "detected_at": "2025-08-17 19:52:31 UTC+01:00"
+  },
+  {
+    "mint": "4qZPHUmnfPPqRpERREmdzR4ad34CKVhCPsexLdD8pump",
+    "name": "",
+    "symbol": "Kickcoin",
+    "creator": "9rkmZD29rgx8qsNY8bPtgBe28QjsB9Dzr7cR9Qx68baD",
+    "score_normalised": 81,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      },
+      {
+        "name": "Single holder ownership",
+        "value": "48.72%",
+        "description": "One user holds a large amount of the token supply",
+        "score": 4871,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-17 22:44:14 UTC+01:00"
+  },
+  {
+    "mint": "DiP5LkwDDjDZEJ3KyyMJNN7XEeVPgFdcvzHno3rXpump",
+    "name": "",
+    "symbol": "Kickcoin",
+    "creator": "9rkmZD29rgx8qsNY8bPtgBe28QjsB9Dzr7cR9Qx68baD",
+    "score_normalised": 81,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      },
+      {
+        "name": "Single holder ownership",
+        "value": "47.65%",
+        "description": "One user holds a large amount of the token supply",
+        "score": 4764,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-17 22:54:19 UTC+01:00"
+  },
+  {
+    "mint": "D8Egg14MWH9qN4NWiZTukhLhjwJRYzbNK1Xbg8ttpump",
+    "name": "",
+    "symbol": "Directed",
+    "creator": "8Z9EX6APSBZaoptpP8Uf9rrt4RoxgGhMToQ31ZwAWeYY",
+    "score_normalised": 81,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 112800,
+        "level": "danger"
+      },
+      {
+        "name": "Large Amount of LP Unlocked",
+        "value": "100.00%",
+        "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point.",
+        "score": 10999,
+        "level": "danger"
+      },
+      {
+        "name": "Low amount of LP Providers",
+        "value": "",
+        "description": "Only a few users are providing liquidity",
+        "score": 500,
+        "level": "warn"
+      }
+    ],
+    "detected_at": "2025-08-17 22:57:56 UTC+01:00"
+  },
+  {
+    "mint": "GcZK3yFBRScDBoQHUA7bAjPmnY7GNGTe8myGepHPpump",
+    "name": "",
+    "symbol": "Kickcoin",
+    "creator": "9rkmZD29rgx8qsNY8bPtgBe28QjsB9Dzr7cR9Qx68baD",
+    "score_normalised": 81,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 120000,
+        "level": "danger"
+      },
+      {
+        "name": "Single holder ownership",
+        "value": "46.53%",
+        "description": "One user holds a large amount of the token supply",
+        "score": 4653,
+        "level": "danger"
+      }
+    ],
+    "detected_at": "2025-08-17 23:05:42 UTC+01:00"
+  },
+  {
+    "mint": "BmpsTGFRJmcvhjQV3MJgA6dBHKJciKEoga85Qjozpump",
+    "name": "",
+    "symbol": "Tac",
+    "creator": "4VkZfrx5Lsa7LmtJdnGk2ABDmZPFjtqRYUy4sQUReoPy",
+    "score_normalised": 81,
+    "risk": "LOW",
+    "risks": [
+      {
+        "name": "Creator history of rugged tokens",
+        "value": "",
+        "description": "Creator has a history of rugging tokens.",
+        "score": 112800,
+        "level": "danger"
+      },
+      {
+        "name": "Large Amount of LP Unlocked",
+        "value": "100.00%",
+        "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point.",
+        "score": 10999,
+        "level": "danger"
+      },
+      {
+        "name": "Low amount of LP Providers",
+        "value": "",
+        "description": "Only a few users are providing liquidity",
+        "score": 400,
+        "level": "warn"
+      }
+    ],
+    "detected_at": "2025-08-17 23:59:32 UTC+01:00"
+  }
+]
