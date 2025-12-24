@@ -163,6 +163,9 @@ The bot also shows real-time processing details:
 - **Due Diligence**: Analyze creator history and token economics
 - **Portfolio Management**: Identify potentially safe investment opportunities
 
+##  Support
+If you loved this tool, feel free to donate to:
+   `FnqoYxGvhzJdiKvw5e8MGT2sL5V69XCTSCqA7uU4WX7v`
 ##  Important Notes
 
 - **Educational Purpose Only**: Not financial advice
